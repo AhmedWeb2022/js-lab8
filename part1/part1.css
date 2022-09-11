@@ -1,0 +1,47 @@
+.login {
+  width: 50%;
+  margin: 20px auto;
+  background: #ccc;
+}
+.login form {
+  width: 90%;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+}
+.login input {
+  width: 70%;
+  margin: 10px auto;
+  outline: none;
+  height: 30px;
+  border: 1px solid #03a9f4;
+  border-radius: 10px;
+  padding: 0 10px 0;
+}
+
+.login form .submit {
+  width: 50%;
+  background: #00bcd4;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+#result {
+  width: 50%;
+  margin: 20px auto;
+  background: #ccc;
+  border-radius: 20px;
+}
+#result .style {
+  width: 80%;
+  margin: auto;
+  color: #fff;
+  background-color: #00bcd4;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+/*==============================================================================================*/
+

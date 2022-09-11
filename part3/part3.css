@@ -1,0 +1,28 @@
+#data {
+  width: 100%;
+}
+.div-style {
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 30%;
+}
+.div-style:hover {
+  background-color: #ccc;
+}
+.img-style {
+  display: block;
+  width: 128px;
+  height: 128px;
+  margin: 20px auto;
+  border-radius: 20px;
+}
+.span-style {
+  display: block;
+  margin: 20px auto;
+}
+.email-style {
+  text-decoration: none;
+}
